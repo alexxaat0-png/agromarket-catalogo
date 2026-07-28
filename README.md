@@ -1,4 +1,4 @@
-agromarket-catalogo
+# AgroMarket - Catálogo de Productos
 El módulo catálogo permite visualizar productos agrícolas
 disponibles para su comercialización dentro de AgroMarket.
 Los usuarios podrán consultar información básica, precios
